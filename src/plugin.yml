@@ -1,0 +1,8 @@
+name: EvaTunaAnvil
+version: 1.0.2
+main: net.evatunaanvil.salkcoding.main.Main
+api-version: 1.13
+commands:
+  EvaTunaAnvil:
+    aliases: [eta,anvil]
+    description: Command for probability

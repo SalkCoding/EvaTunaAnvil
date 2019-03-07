@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EvaTunaAnvil:jar">
+    <output-path>$PROJECT_DIR$/../../../../Minecraft/Plugin Test Bukkit/plugins</output-path>
+    <root id="archive" name="EvaTunaAnvil.jar">
+      <element id="module-output" name="EvaTunaAnvil" />
+    </root>
+  </artifact>
+</component>
